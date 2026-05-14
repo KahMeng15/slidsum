@@ -4,7 +4,7 @@
 ### AI-Powered Lecture Slides Analyzer
 **by kahmeng [kahmeng15.github.io](https://kahmeng15.github.io)**
 
-SlidSum is a powerful, interactive CLI tool designed for extracting structured content from lecture slides. It reads slide files (PDF, PPTX, or images), extracts their content, and uses AI (Gemini or OpenAI) to generate customizable summaries, notes, or analyses — all guided by your own prompt templates.
+SlidSum is a powerful, interactive CLI tool designed for extracting structured content from lecture slides. It reads slide files (PDF and PPTX), extracts their content, and uses AI (Gemini or OpenAI) to generate customizable summaries, notes, or analyses — all guided by your own prompt templates.
 
 ---
 
