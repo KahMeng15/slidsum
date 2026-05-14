@@ -180,10 +180,10 @@ Input File (PDF / PPTX / Image)
         ▼
 ┌─────────────────────────────┐
 │  extract_slides_content()   │  PyMuPDF / python-pptx / Pillow
-│  → slides_content.md        │  (text per page + images for AI vision)
+│  → slides_content.md        │  (text per page)
 └─────────────────────────────┘
         │
-        ▼  (if AI prompt selected)
+        ▼  
 ┌─────────────────────────────┐
 │     analyze_slides()        │  Gemini / OpenAI (multimodal)
 │  → {prompt_name}.md         │
