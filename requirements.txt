@@ -1,0 +1,17 @@
+# Requirements for SlidSum - Lecture Slides Content Extractor & AI Analyzer
+
+# AI & API
+openai
+google-genai
+
+# Slide Parsing
+PyMuPDF          # PDF text + image extraction (import as fitz)
+python-pptx      # PPTX/PPT parsing
+Pillow           # Image processing
+
+# CLI & UI
+rich
+inquirer
+
+# Utilities
+python-dotenv

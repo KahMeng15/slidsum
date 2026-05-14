@@ -1,0 +1,7 @@
+.venv/*
+input_media/*
+output_files/*
+models/*
+temp/*
+.env
+.DS_Store
